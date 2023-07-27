@@ -13,4 +13,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey" alt=""/>
 
-![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)
