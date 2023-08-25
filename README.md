@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rosie </h1>
+<h1 align="center"> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Я Роза </h1>
 <p align="center">Web Developer Student </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=transparent&hide_border=false)](https://git.io/streak-stats)  
