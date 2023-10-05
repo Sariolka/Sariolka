@@ -1,6 +1,7 @@
 <h1 align="center"> Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Я Роза </h1>
+<div align="center"> <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" /> </div>  
 <h4 align="center">Web Developer Student</h4>
- <div align="center"> <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" /> </div>
+
 
   
 * Хочу писать чистый качественный код
