@@ -1,5 +1,6 @@
-<h1 align="center"> Привет! Я Роза </h1>
-<div align="center"> <img src="https://media.giphy.com/media/LG1HjDjtZZONV6ndhy/giphy.gif" width="300" /> </div>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNpZmJ2M2VsbHJxMXZscDk4MnI1a3ozNWFreXl2c3Y1aWZuNGthaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LG1HjDjtZZONV6ndhy/giphy.gif" width="300"/></div>
+<div><h1 align="center"> Привет! Я Роза <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/></h1> </div>
+
 
 
  
@@ -18,8 +19,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=transparent&hide_border=false)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=transparent&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-  
-<img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey" alt=""/>
+![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=shadow-blue&date_format=j%20M%5B%20Y%5D&card_width=510)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=donut&theme=shadow-blue&card_width=325)](https://github.com/anuraghazra/github-readme-stats)  
+ <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey"/>
