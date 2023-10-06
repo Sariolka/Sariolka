@@ -1,5 +1,5 @@
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNpZmJ2M2VsbHJxMXZscDk4MnI1a3ozNWFreXl2c3Y1aWZuNGthaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LG1HjDjtZZONV6ndhy/giphy.gif" width="300"/></div>
-<div><h1 align="center"> Привет!👋 Я Роза <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/></h1> </div>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNyejkyb2I1NnNtdDFkemhlZGtrcnIwNHVjYWI3ZGo4djFhbXlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26Fxy3Iz1ari8oytO/giphy.gif" width="200"/></div>
+<div><h1 align="center"> Привет! Я Роза <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/></h1> </div>
 
 
 
