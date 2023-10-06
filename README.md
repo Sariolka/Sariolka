@@ -6,7 +6,7 @@
 :earth_asia: Быть частью дружной команды  
 
 ## Мой стек:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,react,postman,nodejs,figma,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,react,postman,nodejs,figma,express,git&theme=light)](https://skillicons.dev)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&theme=shadow-blue&layout=donut&hide_border=true&title_color=0349b4)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
