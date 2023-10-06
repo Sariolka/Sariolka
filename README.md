@@ -20,6 +20,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)  
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&theme=shadow-blue&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
- 
- <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey"/>
+ ##
+ <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=0349b4"/>
