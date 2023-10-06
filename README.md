@@ -3,14 +3,14 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&duration=3000&color=0349b4&width=250&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%A0%D0%BE%D0%B7%D0%B0)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNyejkyb2I1NnNtdDFkemhlZGtrcnIwNHVjYWI3ZGo4djFhbXlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/>
- <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="220"/>  
+ <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="210"/>  
 :earth_africa: Хочу писать чистый качественный код  
 :earth_americas: Создавать эффективные и полезные приложения  
 :earth_asia: Быть частью дружной команды  
 </div>
 
 
-</div>
+</div>  
   
 
 ## Мой стек:  
