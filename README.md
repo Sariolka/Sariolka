@@ -1,5 +1,5 @@
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNyejkyb2I1NnNtdDFkemhlZGtrcnIwNHVjYWI3ZGo4djFhbXlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/></div>
-<div><h1 align="center"> Привет! Я Роза <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/></h1> </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&duration=2500&color=1F6B8D&width=300&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%A0%D0%BE%D0%B7%D0%B0)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNyejkyb2I1NnNtdDFkemhlZGtrcnIwNHVjYWI3ZGo4djFhbXlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26Fxy3Iz1ari8oytO/giphy.gif" width="100"/>
 
 
 
