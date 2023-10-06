@@ -20,7 +20,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=donut&theme=shadow-blue&card_width=325)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sariolka&theme=shadow-blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&theme=shadow-blue&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
  
  <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey"/>
