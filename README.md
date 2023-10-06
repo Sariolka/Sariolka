@@ -20,7 +20,6 @@
 
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=transparent&hide_border=false)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=transparent&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
   
 <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=grey" alt=""/>
