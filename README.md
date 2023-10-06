@@ -18,7 +18,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&theme=shadow-blue&layout=donut&hide_border=true&title_color=0349b4)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=0349B4&currStreakLabel=0349B4&stroke=EB545400&currStreakNum=000000&dates=000000&sideNums=000000&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
 ##
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)  
 ##
