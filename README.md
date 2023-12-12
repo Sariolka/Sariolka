@@ -1,16 +1,12 @@
-<div>  
+ 
 <div align="left">  
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&duration=3000&color=0349b4&width=250&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%A0%D0%BE%D0%B7%D0%B0)](https://git.io/typing-svg)
- <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="205"/>  
+ <img align="right" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="185"/>  
 :earth_africa: Хочу писать чистый качественный код  
 :earth_americas: Создавать эффективные и полезные приложения  
 :earth_asia: Быть частью дружной команды  
-</div>
-
-
 </div>  
-  
 
 ## Мой стек:  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp; 
