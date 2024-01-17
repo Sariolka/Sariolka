@@ -1,4 +1,4 @@
- 
+<p align="left"><img src=https://img.shields.io/badge/%D0%98%D1%89%D1%83_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-rgba(176%2C%20245%2C%2056%2C%201)?style=for-the-badge/></p>
 <div align="left">  
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&duration=3000&color=0349b4&width=250&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%A0%D0%BE%D0%B7%D0%B0)](https://git.io/typing-svg)
