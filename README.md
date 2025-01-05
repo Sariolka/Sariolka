@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Light.svg" title="vuejs" alt="vue" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/pinia.svg" title="pinia" alt="pinia" width="50" height="auto"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" title="surge" alt="surge" width="50" height="50"/>&nbsp;
