@@ -28,8 +28,9 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" alt="figma" width="50" height="50"/>&nbsp;
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&theme=shadow-blue&layout=donut&hide_border=true&title_color=0349b4&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sariolka&theme=shadow-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=EB545400&currStreakLabel=0349B4&sideLabels=0349B4&dates=000000&currStreakNum=0349B4)](https://git.io/streak-stats)
-##
-![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)  
-## 
+##   
 [![codewars](https://www.codewars.com/users/Sariola/badges/micro)](https://www.codewars.com/users/Sariola)
  <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=0349b4"/>
+<!-- ##
+![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)  
+--!>
