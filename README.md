@@ -25,10 +25,10 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp;
 ## 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sariolka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ##   
-[![codewars](https://www.codewars.com/users/Sariola/badges/micro)](https://www.codewars.com/users/Sariola)
+[![wakatime](https://wakatime.com/badge/user/018ef4f4-b3dd-430d-b9f6-f309354c3ff2.svg)](https://wakatime.com/@018ef4f4-b3dd-430d-b9f6-f309354c3ff2)
  <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=0349b4"/>
+ [![codewars](https://www.codewars.com/users/Sariola/badges/micro)](https://www.codewars.com/users/Sariola)
 <!-- ##
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg)  
 --!>
