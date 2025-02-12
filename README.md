@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" title="mongodb" alt="mongodb" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp;
 ## 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Sariolka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=vue-dark)
 ##
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
 ##   
