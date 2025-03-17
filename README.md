@@ -22,8 +22,6 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp;
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=vue-dark)
-##
-![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
 ##   
 [![wakatime](https://wakatime.com/badge/user/018ef4f4-b3dd-430d-b9f6-f309354c3ff2.svg)](https://wakatime.com/@018ef4f4-b3dd-430d-b9f6-f309354c3ff2)
  <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=0349b4"/>
@@ -34,3 +32,7 @@
 :earth_americas: Создавать эффективные и полезные приложения  
 :earth_asia: Быть частью дружной команды  
 --!>  
+<!--
+##
+![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
+--!> 
