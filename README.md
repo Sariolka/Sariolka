@@ -23,6 +23,7 @@
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=vue-dark)
 ##   
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Sariolka)](https://t.me/Sariolka)
 [![wakatime](https://wakatime.com/badge/user/018ef4f4-b3dd-430d-b9f6-f309354c3ff2.svg)](https://wakatime.com/@018ef4f4-b3dd-430d-b9f6-f309354c3ff2)
  <img src="https://komarev.com/ghpvc/?username=Sariolka&style=flat-square&color=0349b4"/>
  [![codewars](https://www.codewars.com/users/Sariola/badges/micro)](https://www.codewars.com/users/Sariola)
