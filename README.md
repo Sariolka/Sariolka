@@ -13,8 +13,8 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Vite-Dark.svg" title="vite" alt="vite" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Webpack-Dark.svg" title="webpack" alt="webpack" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Pinia-Dark.svg" title="pinia" alt="pinia" width="50" height="auto"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp; 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;  
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" title="css3" alt="css3" width="50" height="50"/>&nbsp; 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Sass.svg" title="sass" alt="sass" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>&nbsp;
