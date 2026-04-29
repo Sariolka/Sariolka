@@ -33,8 +33,8 @@
  :earth_africa: Хочу писать чистый качественный код  
 :earth_americas: Создавать эффективные и полезные приложения  
 :earth_asia: Быть частью дружной команды  
---!>  
+-->  
 <!--
 ##
 ![snake gif](https://github.com/Sariolka/Sariolka/blob/output/github-contribution-grid-snake.svg) 
---!> 
+--> 
