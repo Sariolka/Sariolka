@@ -20,7 +20,7 @@
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=vue-dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sariolka&layout=compact&theme=vue-dark) -->
 
 ##  
 
